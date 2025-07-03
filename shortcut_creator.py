@@ -1,8 +1,4 @@
 #!/usr/bin/env python3
-"""
-Desktop Shortcut Creator for Zorin OS
-A simple GUI application to create desktop shortcuts (.desktop files)
-"""
 
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
